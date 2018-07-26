@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MaxLayout">
+        <attr name="ml_HeightRatio" format="reference|float" />
+        <attr name="ml_HeightDimen" format="reference|dimension" />
+        <attr name="ml_WidthRatio" format="reference|float" />
+        <attr name="ml_WidthDimen" format="reference|dimension" />
+    </declare-styleable>
+</resources>
